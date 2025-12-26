@@ -1,16 +1,5 @@
-# materia
+# Materia
+Um aplicativo em Flutter que ajuda a gerir sua jornada no curso de Ciência da Computação do IFNMG.
 
-Um app que ajuda na gestão das disciplinas de CC
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Principais Funcionalidades
+- Visualização organizada da árvore de disciplinas com todos os seus requisitos.
